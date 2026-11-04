@@ -1,0 +1,7 @@
+task,model,dev_macro_f1,test_macro_f1
+task1,xlm-roberta-base,0.8002,0.8016
+task2,xlm-roberta-base,0.6827,0.6774
+task3,xlm-roberta-base,0.4975,0.479
+task1,bert-base-multilingual-cased,0.732,0.7413
+task2,bert-base-multilingual-cased,0.5705,0.5814
+task3,bert-base-multilingual-cased,0.5426,0.5264

@@ -1,0 +1,4 @@
+task,model,features,dev_macro_f1,test_macro_f1
+task1,SGD,bi_tfidf,0.7961,0.7841
+task2,SVM,bi_tfidf,0.6631,0.6624
+task3,SVM,bi_tfidf,0.5469,0.5122

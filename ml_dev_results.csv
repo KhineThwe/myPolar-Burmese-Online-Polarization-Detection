@@ -1,0 +1,17 @@
+model,features,task1,task2,task3
+DecisionTree,bi_count,0.698,0.589,0.472
+DecisionTree,bi_tfidf,0.649,0.536,0.439
+DecisionTree,uni_count,0.669,0.52,0.466
+DecisionTree,uni_tfidf,0.643,0.478,0.455
+RandomForest,bi_count,0.749,0.649,0.532
+RandomForest,bi_tfidf,0.758,0.623,0.516
+RandomForest,uni_count,0.743,0.562,0.511
+RandomForest,uni_tfidf,0.744,0.591,0.514
+SGD,bi_count,0.769,0.634,0.526
+SGD,bi_tfidf,0.796,0.657,0.531
+SGD,uni_count,0.747,0.585,0.48
+SGD,uni_tfidf,0.759,0.618,0.521
+SVM,bi_count,0.761,0.61,0.503
+SVM,bi_tfidf,0.796,0.663,0.547
+SVM,uni_count,0.731,0.573,0.486
+SVM,uni_tfidf,0.762,0.62,0.517

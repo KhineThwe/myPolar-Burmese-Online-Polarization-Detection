@@ -1,0 +1,4 @@
+model,task1,task2,task3
+BiLSTM,0.768,0.6,0.52
+Traditional ML (best),0.784,0.662,0.512
+Transformer,0.696,0.531,0.518
