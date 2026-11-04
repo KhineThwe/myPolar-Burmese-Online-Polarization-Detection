@@ -70,7 +70,7 @@ All result tables are in [`results/`](results/).
 Ohnmar Nyunt, Nandar Phyo, Aye Aye Aung, Phyu Pyar Chan Myae Kyaw, Khin Chaw Lai Lai Tun, Linn Thant, Khant Phone Naing, La Yaung Phyo, Moe Pyae Hein, Phyo Htet Pwint, Myat Min Ko Ko, Khine Zar Thwe.
 Presenters: Khine Zar Thwe, Phyo Htet Pwint, Ohnmar Nyunt.
 
-**My contribution (Khine Zar Thwe):** lead presenter; [add what you built, e.g. data merging script, cleaning, a model family, report].
+**My contribution (Khine Zar Thwe):** lead presenter, data merging script, cleaning, a model family, report.
 
 ## Repository layout
 
